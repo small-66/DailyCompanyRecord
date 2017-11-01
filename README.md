@@ -1,0 +1,2 @@
+# DailyCompanyRecord
+DailyRecord
