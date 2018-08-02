@@ -1,3 +1,5 @@
 # DailyCompanyRecord
 DailyRecord
-###初夏的风
+
+
+#初夏的风
